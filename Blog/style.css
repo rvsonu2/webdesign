@@ -1,0 +1,26 @@
+body{
+    background-color: grey;
+}
+#header{
+    text-align: center;
+}
+
+h2{
+    text-align: center;
+    color: Green;
+}
+p{
+    color:white;
+    padding: 20px;
+    font-size:1.2em;
+}
+#row1{
+    height:250px;
+    background: rgb(144, 144, 211);
+}
+#row2{
+    background: rgb(233, 88, 88);
+}
+#row3{
+    background: yellow;
+}
